@@ -1,0 +1,16 @@
+{
+  "name": "20241120_fixingwrongpropertysets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@thatopen/components": "2.3.18",
+    "web-ifc": "0.0.57"
+  }
+}
